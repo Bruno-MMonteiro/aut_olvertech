@@ -1,0 +1,22 @@
+[
+    {
+      "nome": "Bruno Teste",
+      "email": "brunomm123teste@hotmail.com",
+      "senha": "Bruno789@"
+    },
+    {
+      "nome": "Vinicius Neves",
+      "email": "vinny@alura.com",
+      "senha": "sSqvEEMY7FrwJRY"
+    },
+    {
+      "nome": "Gui Lima",
+      "email": "gui@alura.com",
+      "senha": "guilimadev"
+    },
+    {
+      "nome": "Moni Hillman",
+      "email": "moni@alura.com",
+      "senha": "moniverso"
+    }
+  ]
